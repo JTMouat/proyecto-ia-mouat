@@ -5,4 +5,4 @@ Proyecto para deteccion de gestos mediante modelo CNN.
 
 [Descargar archivo .zip directamente (v1.0.0)](https://github.com/JTMouat/proyecto-ia-mouat/releases/download/Archivos_generados/Archivos.hito.1.zip)
 
-[![Descargar Release](https://img.shields.io/github/v/release/tu-usuario/tu-repositorio?color=blue&label=Descargar%20ZIP&style=for-the-badge)]((https://github.com/JTMouat/proyecto-ia-mouat/releases/download/Archivos_generados/Archivos.hito.1.zip))
+[![Descargar Archivos Generados en Hito 1](https://img.shields.io/github/v/release/JTMouat/proyecto-ia-mouat?color=blue&label=Descargar%20ZIP&style=for-the-badge)]((https://github.com/JTMouat/proyecto-ia-mouat/releases/download/Archivos_generados/Archivos.hito.1.zip))
